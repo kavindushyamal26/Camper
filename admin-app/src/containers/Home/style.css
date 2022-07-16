@@ -1,0 +1,22 @@
+.s1 {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(235, 229, 229);
+}
+.s1 h1 {
+  font-size: 30px;
+}
+.s2 {
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+h2 {
+  padding: 8px;
+  font-size: 20px;
+  background-color: rgb(235, 229, 229);
+}
+.c {
+  margin-top: 13px;
+}

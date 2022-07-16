@@ -1,0 +1,66 @@
+.orderTrack {
+  width: 500px;
+  display: flex;
+  padding: auto;
+}
+.orderStatus {
+  width: 33.33%;
+  height: 5px;
+  background: #535455;
+  position: relative;
+  font-size: 12px;
+}
+.orderStatus.active {
+  background: #159230;
+}
+.orderStatus:last-child {
+  width: 0;
+}
+.orderStatus .point {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  border-radius: 8px;
+  background-color: #535455;
+  top: -5px;
+}
+.orderStatus .point.active {
+  background-color: #26a541;
+}
+.orderInfo {
+  height: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  top: -26px;
+  transform: translateX(-50%);
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 600;
+}
+.value {
+  font-size: 12px;
+  text-transform: capitalize;
+}
+.date {
+  padding: 25px;
+}
+.ss {
+  padding: 4px 10px 4px 10px;
+  border-radius: 6px;
+}
+.ss:hover {
+  background-color: #212529;
+  color: #ffff;
+}
+.bb {
+  padding: 3px 12px 3px 12px;
+  border-radius: 6px;
+}
+.bb:hover {
+  background-color: #212529;
+  color: #ffff;
+}

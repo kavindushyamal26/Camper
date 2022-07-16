@@ -1,0 +1,13 @@
+.card {
+  width: 100%;
+  background: #fff;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 1px 0px !important;
+}
+.cardHeader {
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 15px;
+  border-bottom: 1px solid #838383;
+  background-color: rgba(187, 185, 185, 0.438);
+}

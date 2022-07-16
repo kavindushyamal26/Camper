@@ -1,0 +1,30 @@
+.s3 {
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+  background-color: rgb(235, 229, 229);
+}
+.s4 {
+  padding: 0px 0px 20px 80px;
+  font-size: 20px;
+}
+.s4 li {
+  padding: 5px;
+}
+.btn-n1 {
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+}
+.btn-nwpg {
+  padding: 10px 50px 10px 50px;
+  border-radius: 10px;
+}
+.btn-nwpg:hover {
+  color: rgb(255, 255, 255);
+  background-color: #212529;
+  border: rgb(138, 138, 138);
+}
+h5 {
+  color: #626263;
+}

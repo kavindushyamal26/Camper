@@ -1,0 +1,42 @@
+.modal-header {
+  padding: 5px 15px;
+  background-color: rgb(65, 65, 65);
+}
+.modal-title {
+  font-size: 18px;
+  color: #fff;
+}
+.modal-footer {
+  padding: 5px 15px;
+}
+.actionBtnContainer {
+  display: flex;
+  align-items: center;
+}
+
+.actionBtnContainer > button {
+  border: 4px;
+  margin: 0 5px;
+  font-size: 15px;
+}
+.cat {
+  padding: 15px;
+  background-color: rgb(235, 229, 229);
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.b {
+  color: #fff;
+  background-color: #212529;
+  border-radius: 7px;
+  padding: 5px 30px 5px 30px;
+}
+.b1:hover {
+  background-color: rgb(9, 95, 2);
+}
+.b2:hover {
+  background-color: rgb(168, 0, 0);
+}
+.b3:hover {
+  background-color: rgb(204, 191, 16);
+}
